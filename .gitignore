@@ -1,0 +1,10 @@
+node_modules
+build
+coverage
+*.env
+*.log
+.vscode
+.DS_Store
+*.pem
+*.key
+*.crt
